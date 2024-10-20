@@ -3,8 +3,6 @@ Penetration testing topics that will help you learn various methods of enumerati
 
 https://github.com/jakobfriedl/precompiled-binaries
 
-https://github.com/priyanka026012
-
 https://github.com/Rajchowdhury420/OSCP-CheatSheet?tab=readme-ov-file#port-139445-smb
 
 https://github.com/Ignitetechnologies/OSCP_Tools
